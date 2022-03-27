@@ -1,0 +1,15 @@
+# Install Terminal
+# Install WSL Ubuntu from Store
+# sudo apt update
+# sudo apt upgrade
+# sudo apt install neovim
+# mkdir .config
+# cd .config
+# mkdir nvim
+# cd nvim
+# nvim init.vim
+# Paste the configuration
+:set paste
+# Install Vim-Plug <check github>
+# https://www.youtube.com/watch?v=JWReY93Vl6g&t=667s&ab_channel=NeuralNine
+# https://www.youtube.com/watch?v=235G6X5EAvM&ab_channel=TheDigitalLife
